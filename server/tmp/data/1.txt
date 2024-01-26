@@ -1,0 +1,46 @@
+To calculate the i
+ntegral in Equation 6-43,
+ the values of 2p/µgz are calcu
+lated for several values of press
+ure p. Then (2p/µgz) versus p is 
+plotted
+on a Cartesian scale and t
+he area under the curve is cal
+culated either
+numerically or graphically, where
+ the area unthe values of 2p/µgz are calcu
+lated for several values of press
+ure p. Then (2p/µgz) versus p is 
+plotted
+on a Cartesian scale and t
+he area under the curve is cal
+culated either
+numerically or graphically, where
+ the area under the curve from p = 0 to
+any pressure p represents the valu
+e of ψ corresponding to p. The der the curve from p = 0 to
+any pressurne p represents the valu
+e of ψ corresponding to p. The 
+following example will illustrate the procedure.
+the values of 2p/µgz are calcu
+lated for several values of press
+ure p. Then (2p/µgz) versus p is 
+plotted
+on a Cartesian scale and t
+he area under the curve is cal
+culated either
+numerically or graphically, where
+ the area under the curve from p = 0 to
+any pressure p represents the valu
+e of ψ corresponding to p. The 
+the values of 2p/µgz are calcu
+lated for several values of press
+ure p. Then (2p/µgz) versus p is 
+plotted
+on a Cartesian scale and t
+he area under the curve is cal
+culated either
+numerically or graphically, where
+ the area under the curve from p = 0 to
+any pressure p represents the valu
+e of ψ corresponding to p. The 

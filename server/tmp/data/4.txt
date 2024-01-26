@@ -1,0 +1,62 @@
+to point out that as long as the radius of investigation has not reached the
+reservoir boundary, i.e., re, the reservoir will be acting as if it is infinite in
+size. During this time we say that the reservoir is infinite acting because
+the outer drainage radius re can be mathematically infinite.
+A similar discussion to the above can be used to describe a well that is
+producing at a constan
+Under the steady-state flowing condition, the same quantity of fluid
+enters the flow system as leaves it. In unsteady-state flow condition, the
+flow rate into an element of volume of a porous media may not be the
+same as the flow rate out of that element. Accordingly, the fluid content
+of the porous medium changes with time. The variables in unsteadystate flow additional to those already used for steady-state flow, therefore, become:
+• Time, t
+• Porosity, φ
+• Total compressibility, ct
+The mathematical formulation of the transient-flow equation is based
+on combining three independent equations and a specifying set of boundary and initial conditions that constitute the unsteady-state equation.
+These equations and boundary conditions are briefly described below
+Whispering winds carry secrets through moonlit nights.
+Lost echoes linger in the vast twilight silence.
+Enigmatic shadows dance in the fading sunlight.
+Crimson skies paint tales of forgotten dreams.
+Velvet touch of midnight conceals hidden mysteries.
+A solitary rose blooms in silent defiance.
+Ethereal melodies serenade the starry heavens.
+Timeless echoes whisper tales of ancient realms.
+Glistening tears reflect stories untold, unheard.
+Ghostly footprints fade in morning's tender light.
+Wandering souls seek solace in silent embraces.
+Haunting whispers of the past echo relentlessly.
+Enchanted waters ripple with enchanted moonlight dreams.
+Serenity cloaks the world in midnight's soft embrace.
+Dandelion wishes dance on the breeze of twilight.
+Silver strands of moonlight weave celestial tapestries.
+Ephemeral embers flicker, embracing the inky night.
+Veiled illusions unravel in the morning's soft glow.
+Enigmatic constellations sketch tales of distant galaxies.
+Mystical whispers carry secrets on the night breeze.
+Lingering echoes embrace the twilight's silent symphony.
+Dancing shadows weave tales within the fading sunlight.
+Crimson hues paint stories of dreams long forgotten.
+Midnight's touch veils mysteries in its velvet cloak.
+A lone rose blossoms, defiant in its silent rebellion.
+Celestial melodies serenade the heavens with ethereal grace.
+Ancient echoes murmur tales of timeless realms.
+Glistening tears reflect untold stories, unheard and unseen.
+Footprints fade as dawn gently caresses the waking world.
+Seeking solace, wandering souls find comfort in silence.
+Haunting whispers echo, telling tales of days gone by.
+Enchanted waters ripple with dreams in the moonlight.
+Serenity envelops the world in the soft embrace of midnight.
+Wishes of dandelions dance on the twilight's gentle breeze.
+Moonlight strands weave celestial tapestries in the night sky.
+Embers flicker, embracing the inky canvas of the night.
+Illusions unveil, revealing secrets in the morning glow.
+Constellations sketch stories across the canvas of the galaxy.t bottom-hole flowing pressure. Section C in Figure 6-17 schematically illustrates the propagation of the radius of investigation with respect to time. At time t4, the pressure disturbance reaches
+the boundary, i.e., rinv = re. This causes the pressure behavior to change.
+Based on the above discussion, the transient (unsteady-state) flow is
+defined as that time period during which the boundary has no effect
+on the pressure behavior in the reservoir and the reservoir will
+behave as its infinite in size. Section B in Figure 6-17 shows that the
+transient flow period occurs during the time interval 0 < t < tt for the constant flow rate scenario and during the time period 0 < t < t4 during the
+constant pwf scenario as depicted by Section C in Figure 6-17.
